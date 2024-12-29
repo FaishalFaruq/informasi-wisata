@@ -1,0 +1,86 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin-top: 20px;
+    color: #007bff;
+}
+
+.horizontal-scroll {
+    display: flex;
+    overflow-x: auto;
+    gap: 20px;
+    padding: 10px 0;
+    scrollbar-width: thin; /* Firefox */
+    scrollbar-color: #ccc transparent;
+}
+
+.horizontal-scroll::-webkit-scrollbar {
+    height: 8px; /* Horizontal scrollbar height */
+}
+
+.horizontal-scroll::-webkit-scrollbar-thumb {
+    background-color: #ccc;
+    border-radius: 4px;
+}
+
+.horizontal-scroll::-webkit-scrollbar-track {
+    background-color: transparent;
+}
+
+.item {
+    flex: 0 0 300px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    padding: 15px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+}
+
+.item img {
+    width: 100%;
+    height: auto;
+    border-bottom: 2px solid #ddd;
+    margin-bottom: 10px;
+}
+
+.item h3 {
+    font-size: 1.1em;
+    margin: 10px 0;
+    color: #007bff;
+}
+
+.item p {
+    margin: 5px 0;
+    font-size: 0.9em;
+    color: #555;
+}
+
+.item a {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+    display: block;
+    margin-top: 10px;
+    transition: color 0.3s ease;
+}
+
+.item a:hover {
+    color: #0056b3;
+}

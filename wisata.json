@@ -1,0 +1,515 @@
+{
+    "Tempatwisata": [
+      {
+        "id": 1,
+        "nama": "Monumen Nasional",
+        "gambar": "https://anekatempatwisata.com/wp-content/uploads/2018/04/Monumen-Nasional.jpg",
+        "harga": "Rp 15.000",
+        "alamat": "Jl. Medan Merdeka Utara, Gambir, Jakarta Pusat",
+        "link_gmaps": "https://goo.gl/maps/T4pq3Bk2PyKvHCcc7?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Minggu, 08.00 - 18.00",
+        "kategori": "Tempat Bersejarah"
+      },
+      {
+        "id": 2,
+        "nama": "Museum Nasional Indonesia",
+        "gambar": "https://anekatempatwisata.com/wp-content/uploads/2018/04/Museum-Nasional-Indonesia.jpg",
+        "harga": "Rp 15.000",
+        "alamat": "Jl. Medan Merdeka Barat, Gambir, Jakarta Pusat",
+        "link_gmaps": "https://goo.gl/maps/tbdPdH1VJ31tckqg7?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Minggu, 08.00 - 16.00",
+        "kategori": "Museum"
+      },
+      {
+        "id": 3,
+        "nama": "Pantai Ancol",
+        "gambar": "https://anekatempatwisata.com/wp-content/uploads/2021/03/Ancol.jpg",
+        "harga": "Rp 25.000",
+        "alamat": "Jl. Lodan Raya, Pademangan, Jakarta Utara",
+        "link_gmaps": "https://goo.gl/maps/TciQ9BjPhnXzP6Zv6?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Minggu, 06.00 - 24.00",
+        "kategori": "Pantai"
+      },
+      {
+        "id": 4,
+        "nama": "Taman Mini Indonesia Indah",
+        "gambar": "https://anekatempatwisata.com/wp-content/uploads/2018/04/Taman-Mini-Indonesia-Indah.jpg",
+        "harga": "Rp 25.000",
+        "alamat": "Jl. Taman Mini Indonesia Indah, Cipayung, Jakarta Timur",
+        "link_gmaps": "https://goo.gl/maps/BpAuJHRSsk3WoLMVA?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Minggu, 06.00 - 17.00",
+        "kategori": ["Taman Rekreasi", "Taman Budaya"]
+      },
+      {
+        "id": 5,
+        "nama": "Kota Tua Jakarta",
+        "gambar": "https://anekatempatwisata.com/wp-content/uploads/2015/05/Kota-Tua-Jakarta-scaled-1536x1024.jpg",
+        "harga": "Gratis - Rp 5.000",
+        "alamat": "Pinangsia, Taman Sari, Jakarta Barat",
+        "link_gmaps": "https://goo.gl/maps/cXrdfy7YqZ5ShiAj6?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Minggu, 08.00 - 21.00",
+        "kategori": "Tempat Bersejarah"
+      },
+      {
+        "id": 6,
+        "nama": "Pantai Marunda",
+        "gambar": "https://anekatempatwisata.com/wp-content/uploads/2018/04/Pantai-Marunda.jpg",
+        "harga": "Gratis",
+        "alamat": "Marunda, Cilincing, Jakarta Utara",
+        "link_gmaps": "https://goo.gl/maps/NTyGYtUKNQFrfosJ9?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Minggu, Buka 24 Jam",
+        "kategori": "Pantai"
+      },
+      {
+        "id": 7,
+        "nama": "Waterbom Jakarta",
+        "gambar": "https://anekatempatwisata.com/wp-content/uploads/2018/04/Waterbom.jpg",
+        "harga": "Rp 200.000",
+        "alamat": "Jl. Pantai Indah Kapuk, Penjaringan, Jakarta Utara",
+        "link_gmaps": "https://goo.gl/maps/zPc3EoJpaJ544Abc7?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Minggu, 08.00 - 21.00",
+        "kategori": ["Kolam Renang", "Wisata Air"]
+      },
+      {
+        "id": 8,
+        "nama": "Taman Mangrove Angke Kapuk",
+        "gambar": "https://anekatempatwisata.com/wp-content/uploads/2018/04/Taman-Wisata-Alam-Mangrove-Angke-Kapuk.jpg",
+        "harga": "Rp 35.000",
+        "alamat": "Jl. Garden House, Penjaringan, Jakarta Utara",
+        "link_gmaps": "https://goo.gl/maps/EbudnFNd5QCzAgd58?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Minggu, 08.00 - 17.00",
+        "kategori": ["Hutan Mangrove", "Suaka Margasatwa", "Cagar Alam"]
+      },
+      {
+        "id": 9,
+        "nama": "Kelenteng Jin De Yuan",
+        "gambar": "https://anekatempatwisata.com/wp-content/uploads/2018/04/Kelenteng-Jin-De-Yuan.jpg",
+        "harga": "Rp 25.000",
+        "alamat": "Jl. Kemenangan III, Taman Sari, Kota Jakarta Barat",
+        "link_gmaps": "https://goo.gl/maps/BYifsPx8eKga3Wju5?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Minggu, 06.00 - 16.00",
+        "kategori": "Tempat Ibadah"
+      },
+      {
+        "id": 10,
+        "nama": "Taman Margasatwa Ragunan",
+        "gambar": "https://anekatempatwisata.com/wp-content/uploads/2018/04/Kebun-Binatang-Ragunan.jpg",
+        "harga": "Rp 4.000",
+        "alamat": "Jl. Harsono RM. , Pasar Minggu, Jakarta Selatan",
+        "link_gmaps": "https://goo.gl/maps/tXaN2KQiHQNDMVpF7?coh=178573&entry=tt",
+        "jadwal_buka": "Selasa - Minggu, 07.00 - 16.00",
+        "kategori": "Kebun Binatang"
+      },
+      {
+        "id": 11,
+        "nama": "Museum Tekstil Jakarta",
+        "gambar": "https://anekatempatwisata.com/wp-content/uploads/2018/04/Museum-Tekstil.jpg",
+        "harga": "Rp 5.000",
+        "alamat": "Jl. Ks. Tubun, Palmerah, Jakarta Barat",
+        "link_gmaps": "https://goo.gl/maps/asCBjaRrRoEVVX2N8?coh=178573&entry=tt",
+        "jadwal_buka": "Selasa - Minggu, 09.00 - 16.00",
+        "kategori": ["Museum","Tekstil"]
+      },
+      {
+        "id": 12,
+        "nama": "Kuliner Malam Pecenongan",
+        "gambar": "https://anekatempatwisata.com/wp-content/uploads/2018/04/Kuliner-Malam-Pecenongan.jpg",
+        "harga": "-",
+        "alamat": "Jl. Pecenongan, Gambir, Jakarta Pusat,",
+        "link_gmaps": "https://goo.gl/maps/Bfd7URjWvGGgsZ5E6?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Minggu, 06.00 - 12.00",
+        "kategori": "Kuliner"
+      },
+      {
+        "id": 13,
+        "nama": "Gereja Katedral",
+        "gambar": "https://anekatempatwisata.com/wp-content/uploads/2018/04/Gereja-Katedral.jpg",
+        "harga": "Gratis",
+        "alamat": "Jl. Katedral, Sawah Besar, Jakarta Pusat",
+        "link_gmaps": "https://goo.gl/maps/HDbaY3hPocnyH2sk9?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Minggu, Buka 24 Jam",
+        "kategori": "Tempat Ibadah"
+      },
+      {
+        "id": 14,
+        "nama": "Kawasan Kuliner BSM",
+        "gambar": "https://anekatempatwisata.com/wp-content/uploads/2018/04/Kawasan-Kuliner-BSM.jpg",
+        "harga": "-",
+        "alamat": "Jl. MH Thamrin, Thamrin, Jakarta Pusat",
+        "link_gmaps": "https://goo.gl/maps/11v8UYydSBELtvf19?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Minggu, 09.00 - 18.00",
+        "kategori": "Kuliner"
+      },
+      {
+        "id": 15,
+        "nama": "Kepulauan Seribu",
+        "gambar": "https://anekatempatwisata.com/wp-content/uploads/2018/04/Pulau-Tidung-610x343.jpg",
+        "harga": "-",
+        "alamat": "Kepulauan Seribu, Jakarta Utara",
+        "link_gmaps": "https://goo.gl/maps/BhXG8f3nhdpV8yt39?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Minggu, Buka 24 Jam",
+        "kategori": ["Relaksasi","Rekreasi"]
+      },
+      {
+        "id": 16,
+        "nama": "Taman Situ Lembang",
+        "gambar": "https://anekatempatwisata.com/wp-content/uploads/2014/02/Taman-Situ-Lembang-Menteng-Jakarta-116lou.jpg",
+        "harga": "Gratis",
+        "alamat": "Jl. Lembang Terusan, Menteng, Jakarta Pusat",
+        "link_gmaps": "https://goo.gl/maps/2rGoUmxt1V7QyEHc8?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Minggu, Buka 24 Jam",
+        "kategori": "Taman Rekreasi"
+      },
+      {
+        "id": 17,
+        "nama": "Kampung Main Cipulir",
+        "gambar": "https://salsawisata.b-cdn.net/wp-content/uploads/2021/07/Kampung-Main-Cipulir.jpg",
+        "harga": "Rp 7.000 - Rp 30.000",
+        "alamat": "Jl. Gang H. Sairi, Kebayoran Lama, Jakarta Selatan",
+        "link_gmaps": "https://goo.gl/maps/4GVp8nedMtfVTzGB8?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Minggu, 08.00 - 16.00",
+        "kategori": "Wisata Desa"
+      },
+      {
+        "id": 18,
+        "nama": "Kidzania",
+        "gambar": "https://salsawisata.b-cdn.net/wp-content/uploads/2021/07/kidzania-jakarta.jpg.webp",
+        "harga": "Rp 235.000 - Rp 335.000",
+        "alamat": "Pacific Place, Jl. Jend. Sudirman, Senayan, Jakarta Selatan",
+        "link_gmaps": "https://goo.gl/maps/VfaRA4mnhGvGS7Nt6?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Minggu, 11.00 - 17.00",
+        "kategori": "Taman Hiburan"
+      },
+      {
+        "id": 19,
+        "nama": "Museum Bahari Jakarta",
+        "gambar": "https://www.goodnewsfromindonesia.id/uploads/post/large-goodnewsfromindonesia-gnfi-museum-bahari-maritim-bb912e4312abe569103ddf3a69f6338f.jpg",
+        "harga": "Rp 5.000",
+        "alamat": "Jl. Pasar Ikan No.1, Penjaringan, Jakarta Utara",
+        "link_gmaps": "https://goo.gl/maps/pMjGt1bK1SRRQdHy7?coh=178573&entry=tt",
+        "jadwal_buka": "Selasa - Minggu, 09.00 - 15.00",
+        "kategori": "Museum"
+      },
+      {
+        "id": 20,
+        "nama": "Pelabuhan Sunda Kelapa",
+        "gambar": "https://salsawisata.b-cdn.net/wp-content/uploads/2021/07/Pelabuhan-Sunda-Kelapa.jpg.webp",
+        "harga": "Rp 25.000",
+        "alamat": "Jl. Maritim, Penjaringan, Jakarta Utara",
+        "link_gmaps": "https://goo.gl/maps/d8CWfqzHRy9cUbJb7?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Minggu, 06.00 - 24.00",
+        "kategori": "Tempat Bersejarah"
+      },
+      {
+        "id": 21,
+        "nama": "Perpustakaan Nasional Republik Indonesia",
+        "gambar": "https://salsawisata.b-cdn.net/wp-content/uploads/2021/07/Perpustakaan-Nasional-Republik-Indonesia.jpg.webp",
+        "harga": "Rp 2.500",
+        "alamat": "Jl. Medan Merdeka Selatan No.11, Gambir, Jakarta Pusat",
+        "link_gmaps": "https://goo.gl/maps/uLeH7xczDkg5kQeBA?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Jumat : 08.00 - 21.00, Sabtu - Minggu : 09.00 - 16.00",
+        "kategori": ["Museum", "Perpustakaan"]
+      },
+      {
+        "id": 22,
+        "nama": "Fredoom Library",
+        "gambar": "https://kcic.co.id/lkapp/wp-content/uploads/2021/07/Perpustakaan-Umum-Freedom-Institute-14-2.jpg",
+        "harga": "Gratis",
+        "alamat": "Wisma Bakrie 1, Jl. H. R. Rasuna Said, Karet Kuningan, Jakarta Selatan",
+        "link_gmaps": "https://goo.gl/maps/FMkJfJY5tBtErsgT7?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Jumat, 09.00 - 17.00",
+        "kategori": ["Perpustakaan","Budaya"]
+      },
+      {
+        "id": 23,
+        "nama": "Galeri Indonesia Kaya",
+        "gambar": "https://2.bp.blogspot.com/-_TCIevMRWRU/WM046oUvYKI/AAAAAAAAL4Y/_WEltatkmBsUeSq4xgrpDD11E-pTbpGwQCLcB/s1600/Galeri-Indoensia-Kaya-2.jpg",
+        "harga": "Gratis",
+        "alamat": "Grand Indonesia - West Mall lt. 8, Tanah Abang, Jakarta Pusat",
+        "link_gmaps": "https://goo.gl/maps/76g7ufctBQjxPtPh9?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Minggu, 10.00 - 21.30",
+        "kategori": ["Seni","Budaya"]
+      },
+      {
+        "id": 24,
+        "nama": "Taman Ismail Marzuki",
+        "gambar": "https://awsimages.detik.net.id/community/media/visual/2022/07/13/taman-ismail-marzuki-sejarah-lokasi-fasilitas-cara-berkunjung_169.jpeg?w=1200",
+        "harga": "Gratis",
+        "alamat": " Jl. Cikini Raya No. 73, Menteng, Jakarta Pusat",
+        "link_gmaps": "https://goo.gl/maps/NE375j9D8sf6YzZj8?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Minggu, 08.00 - 23.00",
+        "kategori": ["Seni", "Budaya"]
+      },
+      {
+        "id": 25,
+        "nama": "Senayan Park",
+        "gambar": "https://senayanpark.com/assets/articles/discover_B.jpg",
+        "harga": "Gratis",
+        "alamat": "Jl. Gerbang Pemuda No. 3, Tanah Abang, Jakarta Pusat",
+        "link_gmaps": "https://goo.gl/maps/skR9Nt2gbqutQNgY9?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Minggu, 07.00 - 22.00",
+        "kategori": "Taman Rekreasi"
+      },
+      {
+        "id": 26,
+        "nama": "Art:1 New Museum and Art Space",
+        "gambar": "https://museum.co.id/wp-content/uploads/2020/09/art-1-new-museum-1.jpg",
+        "harga": "Rp 35.000 - RP 100.000",
+        "alamat": "Jl. Rajawali Selatan Raya, Sawah Besar, Jakarta Pusat",
+        "link_gmaps": "https://goo.gl/maps/x8oeooFLumDq3w4KA?coh=178573&entry=tt",
+        "jadwal_buka": "Selasa - Sabtu : 10.00 - 18.00, Minggu : 10.00 - 16.00",
+        "kategori": ["Museum", "Seni"]
+      },
+      {
+        "id": 27,
+        "nama": "Kuntum Farmfield",
+        "gambar": "https://salsawisata.b-cdn.net/wp-content/uploads/2021/07/Kuntum-Farmfield.jpg.webp",
+        "harga": "Rp 60.000 - Rp 70.000",
+        "alamat": "Jl. Raya Tajur No. 291, Sindangrasa, Bogor",
+        "link_gmaps": "https://goo.gl/maps/oZ38X8XVEn2w3H758?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Minggu, 08.00 - 18.00",
+        "kategori": "Peternakan Hewan"
+      },
+      {
+        "id": 28,
+        "nama": "Kampung Cina",
+        "gambar": "https://cdn.medcom.id/images/content/2020/01/25/1105431/wisata-kampung-cina-cibubur-02.jpg",
+        "harga": "Rp 15.000",
+        "alamat": "Jl. Boulevard Kota Wisata Cibubur, Gn. Putri, Bogor",
+        "link_gmaps": "https://goo.gl/maps/7nBFoymJAAmKDCHYA?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Minggu, 08.00 - 18.00",
+        "kategori": "Budaya"
+      },
+      {
+        "id": 29,
+        "nama": "Bounce Street Trampoline Park",
+        "gambar": "https://salsawisata.b-cdn.net/wp-content/uploads/2021/07/Bounce-Street-Trampoline-Park.jpg.webp",
+        "harga": "Rp 150.000 - Rp 175.000",
+        "alamat": "Jl. Sentra Bisnis Artha Gading, Kelapa Gading, Jakarta Utara",
+        "link_gmaps": "https://goo.gl/maps/gbz3eU2BybgfcNUt6?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Minggu, 10.00 - 19.00",
+        "kategori": "Taman Hiburan"
+      },
+      {
+        "id": 30,
+        "nama": "Hutan Kota Srengseng",
+        "gambar": "https://img.okezone.com/content/2022/01/14/408/2531971/kudu-coba-nih-seruput-madu-segar-langsung-dari-sarangnya-di-hutan-kota-srengseng-1WVqUVvR3L.JPG",
+        "harga": "Rp 2.000",
+        "alamat": "Jl. H. Kelik, Kembangan, Jakarta Barat",
+        "link_gmaps": "https://goo.gl/maps/b2GcbA1GprXjT8X76?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Minggu, 07.00 - 17.00",
+        "kategori": "Hutan Kota"
+      },
+      {
+        "id": 31,
+        "nama": "Setu Babakan",
+        "gambar": "https://cove-blog-id.sgp1.cdn.digitaloceanspaces.com/cove-blog-id/2022/03/setu-babakan-1.webp",
+        "harga": "Gratis",
+        "alamat": "Jl. RM. Kahfi II, Jagakarsa, Jakarta Selatan",
+        "link_gmaps": "https://goo.gl/maps/piWviJZxrZebvtTn8?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Minggu, 06.00 - 24.00",
+        "kategori": ["Seni", "Budaya"]
+      },
+      {
+        "id": 32,
+        "nama": "Hutan Kota GBK",
+        "gambar": "https://cdn.idntimes.com/content-images/community/2021/08/201836001-396561918296667-8322697214637776769-n-1958eb532345a9b940dfb577936aeb55-735df47f42897c9483ab2a66ebe7491b_600x400.jpg",
+        "harga": "Gratis",
+        "alamat": "Jl. Jendral Sudirman, Tanah Abang, Jakarta Pusat",
+        "link_gmaps": "https://goo.gl/maps/oMBYde8anBLLNWzE7?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Minggu, 06.00 - 18.00",
+        "kategori": "Hutan Kota"
+      },
+      {
+        "id": 33,
+        "nama": "Danau Sunter",
+        "gambar": "https://o-cdn-cas.sirclocdn.com/parenting/images/Sejarah_Danau_Sunter.width-800.format-webp.webp",
+        "harga": "-",
+        "alamat": "Sunter Jaya, Tanjung Priok, Jakarta Utara",
+        "link_gmaps": "https://goo.gl/maps/V5zsU4dRApeCvAtr5?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Minggu, Buka 24 Jam",
+        "kategori": "Danau"
+      },
+      {
+        "id": 34,
+        "nama": "Pos Bloc Jakarta",
+        "gambar": "https://asset.kompas.com/crops/-AyzIBZhA0_XxjyezF58EojVClo=/0x171:2048x1536/750x500/data/photo/2021/10/20/616f8f696dc95.jpeg",
+        "harga": "  Gratis",
+        "alamat": "Jl. Pos No. 2, Sawah Besar, Jakarta Pusat",
+        "link_gmaps": "https://goo.gl/maps/5Zo8mgyfeNBZ5Nso6?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Sabtu : 10.00 - 22.00, Sabtu - Minggu : 07.00 - 22.00",
+        "kategori": ["Seni", "Budaya", "Hiburan"]
+      },
+      {
+        "id": 35,
+        "nama": "Museum Bank Indonesia",
+        "gambar": "https://o-cdn-cas.sirclocdn.com/parenting/images/205310592_556759011992076_1699936.width-800.format-webp.webp",
+        "harga": "Rp 5.000",
+        "alamat": "Jl. Pintu Besar Utara No.3, Tamansari, Jakarta Barat",
+        "link_gmaps": "https://goo.gl/maps/J5tfuf2t57jKczEq6?coh=178573&entry=tt",
+        "jadwal_buka": "Selasa - Minggu, 08.00 - 15.30",
+        "kategori": "Museum"
+      },
+      {
+        "id": 36,
+        "nama": "Taman Martha Tiahahu",
+        "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Taman_Literasi_Martha_Christina_Tiahahu.jpg/450px-Taman_Literasi_Martha_Christina_Tiahahu.jpg",
+        "harga": "Gratis",
+        "alamat": "Jl. Sisingamaraja, Kebayoran Baru, Jakarta Selatan",
+        "link_gmaps": "https://goo.gl/maps/MoGVs3mboBarSk6A6?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Minggu, 07.00 - 22.00",
+        "kategori": "Taman Literasi"
+      },
+      {
+        "id": 37,
+        "nama": "Cibubur Garden Dairy",
+        "gambar": "https://beritacibubur.files.wordpress.com/2019/09/cibuburgardendairy7-630x380.jpg?w=723",
+        "harga": "Rp 25.000 - Rp 40.000",
+        "alamat": "Jl. Peternakan Raya Blok C No. 12, Cipayung, Jakarta Timur",
+        "link_gmaps": "https://goo.gl/maps/hzJnfjFu6dgcS52E6?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Minggu, 09.00 - 18.00",
+        "kategori": "Pertenakan Hewan"
+      },
+      {
+        "id": 38,
+        "nama": "KidCity Cempaka Putih",
+        "gambar": "https://pbs.twimg.com/media/CbkA3VUUsAA8O1Z.jpg",
+        "harga": "-",
+        "alamat": "Jl. Cempaka Mas Timur Lower Ground, Cempaka Putih, Jakarta Pusat",
+        "link_gmaps": "https://goo.gl/maps/meQpGeXRBgJmn5Pp7?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Minggu, 10.00 - 22.00",
+        "kategori": "Taman Hiburan"
+      },
+      {
+        "id": 39,
+        "nama": "Museum MACAN",
+        "gambar": "https://soc-phoenix.s3-ap-southeast-1.amazonaws.com/wp-content/uploads/2017/11/08154539/FullSizeRender-copy.jpg",
+        "harga": "Rp 56.000 - Rp 90.000",
+        "alamat": "Jl. Panjang No. 5 Kebon Jeruk, Jakarta Barat",
+        "link_gmaps": "https://goo.gl/maps/2CSz8C2Jak7ypN7a7?coh=178573&entry=tt",
+        "jadwal_buka": "Selasa - Minggu, 10.00 - 18.00",
+        "kategori": "Museum"
+      },
+      {
+        "id": 40,
+        "nama": "2Madison Gallery",
+        "gambar": "https://anekatempatwisata.com/wp-content/uploads/2022/03/2madison-Gallery-1200x600.jpg",
+        "harga": "Gratis",
+        "alamat": "Jl. Bangka Raya No.20, Pela Mampang, Jakarta Pusat",
+        "link_gmaps": "https://goo.gl/maps/VAjtVHpu3ViS3ERL9?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Minggu, 08.00 - 18.00",
+        "kategori": "Seni"
+      },
+      {
+        "id": 41,
+        "nama": "Tebet Eco Park",
+        "gambar": "https://asset.kompas.com/crops/ZPNBXqHNVgC9qPgacw6LBTOD6pc=/62x0:737x450/750x500/data/photo/2022/02/08/62022df608bd2.jpeg",
+        "harga": "Gratis",
+        "alamat": "Jl. Tebet Barat Raya, Tebet, Jakarta Selatan ",
+        "link_gmaps": "https://goo.gl/maps/ipqJ5fYmeCKf3FX29?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Minggu, 07.00 - 17.00",
+        "kategori": "Taman Rekreasi"
+      },
+      {
+        "id": 42,
+        "nama": "Masjid Ramlie Musofa",
+        "gambar": "https://www.kubahmadina.com/wp-content/uploads/2021/09/tampak-depan-masjid-ramlie-musofa.jpg",
+        "harga": "Gratis",
+        "alamat": "Jl. Danau Sunter Raya Selatan, Tanjung Priok, Jakarta Utara",
+        "link_gmaps": "https://goo.gl/maps/YtHhoGxvjo2D6VX48?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Minggu, Buka 24 Jam",
+        "kategori": "Tempat Ibadah"
+      },
+      {
+        "id": 43,
+        "nama": "Taman Argo Wisata Cilangkap",
+        "gambar": "https://multimedia.beritajakarta.id/photo/2014_508c75c8507a2ae5223dfd2faeb98122/715710049f8e9aa5bf8bfd9ef8035b23.jpg",
+        "harga": "Gratis",
+        "alamat": "Jl. Raya Cilangkap No.45, Cipayung, Jakarta Timur",
+        "link_gmaps": "https://goo.gl/maps/Fe9jKBQDmFjCE9sz8?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Minggu, Buka 24 Jam",
+        "kategori": "Taman Rekreasi"
+      },
+      {
+        "id": 44,
+        "nama": "Moja Museum",
+        "gambar": "https://images-tm.tempo.co/all/2022/05/24/801403/801403_1200.jpg",
+        "harga": "-",
+        "alamat": "Komplek Gelora Bung Karno, Main Stadium, Zona Biru 8-9, Tanah Abang, Jakarta Pusat",
+        "link_gmaps": "https://goo.gl/maps/gtN4GoSHXBFjpmZN8?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Minggu, 11.00 - 19.00",
+        "kategori": "Museum"
+      },
+      {
+        "id": 45,
+        "nama": "Pasar Tanah Abang",
+        "gambar": "https://anekatempatwisata.com/wp-content/uploads/2018/04/Pasar-Tanah-Abang.jpg",
+        "harga": "Gratis",
+        "alamat": "Jl. H. Fachrudin No. 1, Tanah Abang, Jakarta Pusat",
+        "link_gmaps": "https://goo.gl/maps/N1TiPhyBmzGXfUGG6?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Minggu, 06.00 - 16.00",
+        "kategori": "Pasar Tradisional"
+      },
+      {
+        "id": 46,
+        "nama": "Urban Forest Cipete",
+        "gambar": "https://asset.kompas.com/crops/Zdhu2Mn6X1fOwTIBgJHKfB-_OjE=/0x0:0x0/750x500/data/photo/2023/01/11/63bebf47d309a.jpg",
+        "harga": "Gratis",
+        "alamat": "Jl. RS Fatmawati Raya No. 45, Cilandak, Jakarta Selatan",
+        "link_gmaps": "https://goo.gl/maps/Ya7C14Kr9ZVFatxV7?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Minggu, 07.00 - 22.00",
+        "kategori": "Taman Rekreasi"
+      },
+      {
+        "id": 47,
+        "nama": "Hutan Kota Cipayung",
+        "gambar": "https://yangbelumsempat.org/wp-content/uploads/2021/07/cover-768x489.jpg",
+        "harga": "Gratis",
+        "alamat": "Jl. Ali, Cipayung, Jakarta Timur",
+        "link_gmaps": "https://goo.gl/maps/Utvs55e8cT3n1bbx7?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Minggu, 08.00 - 16.00",
+        "kategori": "Hutan Kota"
+      },
+      {
+        "id": 48,
+        "nama": "Jembatan Kota Intan",
+        "gambar": "https://thumbs.dreamstime.com/b/jembatan-kota-intan-jakarta-indonesia-july-drawbridge-engelse-brug-dutch-colonial-building-located-kali-besar-tua-153600432.jpg",
+        "harga": "Gratis",
+        "alamat": "Ancol, Pademangan, Tamansari, Jakarta Barat",
+        "link_gmaps": "https://goo.gl/maps/s5uJJ52D6dZ54Vew5?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Minggu, Buka 24 Jam",
+        "kategori": ["Budaya", "Tempat Bersejarah"]
+      },
+      {
+        "id": 49,
+        "nama": "Rumah Si Pitung",
+        "gambar": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1549525741/oueyl06smigviz0nbhf4.jpg",
+        "harga": "Gratis",
+        "alamat": "Jl. Kp. Marunda Pulo, Cilincing, Jakarta Utara",
+        "link_gmaps": "https://goo.gl/maps/zPGUW95vTmeNcsodA?coh=178573&entry=tt",
+        "jadwal_buka": "Selasa - Minggu, 08.00 - 17.00",
+        "kategori": "Tempat Bersejarah"
+      },
+      {
+        "id": 50,
+        "nama": "Dunia Fantasi",
+        "gambar": "https://anekatempatwisata.com/wp-content/uploads/2018/04/Dunia-Fantasi-klook.png",
+        "harga": "Rp 250.000 - Rp 800.000",
+        "alamat": "Jl. Lodan Timur No.7, Pademangan, Jakarta Utara",
+        "link_gmaps": "https://goo.gl/maps/SiGAEvD7MaAVwqat8?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Jumat : 10.00 - 17.00, Sabtu - Minggu : 10.00 - 19.00",
+        "kategori": "Taman Hiburan"
+      },
+      {
+        "id": 51,
+        "nama": "Masjid Istiqlal",
+        "gambar": "https://anekatempatwisata.com/wp-content/uploads/2018/04/Masjid-Istiqlal.jpg",
+        "harga": "Gratis",
+        "alamat": "Jl. Taman Wijaya Kusuma, Sawah Besar, Jakarta Pusat",
+        "link_gmaps": "https://goo.gl/maps/SR1ygDiSKFt2WLSa9?coh=178573&entry=tt",
+        "jadwal_buka": "Senin - Minggu, Buka 24 Jam",
+        "kategori": "Tempat Ibadah"
+      }
+    ]
+  }
+  
